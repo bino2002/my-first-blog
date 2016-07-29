@@ -1,1 +1,1 @@
-d:\sites\mysite python manage.py runserver
+python d:/sites/mysite/manage.py runserver
